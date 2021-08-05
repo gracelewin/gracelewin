@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm currently a student in the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB.
+Hi! I'm currently a student in the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB. I'm learning data science skills to investigate and understand environmental data.
 
 - 📫 How to reach me: glewin@bren.ucsb.edu
 - 😄 Pronouns: she/her
