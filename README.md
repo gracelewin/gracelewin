@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi! I'm currently a student in the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB.
+
+- 📫 How to reach me: glewin@bren.ucsb.edu
+- 😄 Pronouns: she/her
+
 <!--
 **gracelewin/gracelewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
