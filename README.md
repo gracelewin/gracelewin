@@ -2,6 +2,8 @@
 
 Hi! I'm currently a student in the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB. I'm learning data science skills to investigate and understand environmental data.
 
+I graduated from UC Davis with a Bachelors degree in Wildlife, Fish, and Conservation Biology and since then have worked as a river rafting guide in Colorado and as a field technician collecting data for community ecology research projects.
+
 
 - 🌱 I’m currently learning: R and Python
 - 📫 How to reach me: glewin@bren.ucsb.edu
