@@ -2,7 +2,7 @@ Hi! I'm currently a PhD student in the Ecology, Evolution, and Marine Biology De
 
 I learned almost all my data science skills during my time completing the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB. 
 
-I'm now excited to apply those skills to conservation science projects along our coastline!
+I'm now excited to apply those skills to conservation science projects and research along our coastline!
 
 - 📫 How to reach me: glewin@.ucsb.edu
 - 😄 Pronouns: she/her
