@@ -1,4 +1,4 @@
-Hi! I'm currently a PhD student in the Ecology, Evolution, and Marine Biology Department at UC Santa Barbara. I'm excited about connectivity between ecosystems, especially between the inland and coastal ecosystems along the California coast! I'm currently studying the large terrestrial mammals which use our coasts to find the extent that marine resources end up in their diet.
+Hi! I'm currently a masters student in the Ecology, Evolution, and Marine Biology Department at UC Santa Barbara. I'm excited about connectivity between ecosystems, especially between the inland and coastal ecosystems along the California coast! I'm currently studying the large terrestrial mammals which use our coasts to find the extent that marine resources end up in their diet.
 
 I learned almost all my data science skills during my time completing the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB. 
 
