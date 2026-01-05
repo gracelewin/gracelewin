@@ -1,8 +1,6 @@
-Hi! I'm currently a masters student in the Ecology, Evolution, and Marine Biology Department at UC Santa Barbara. I'm excited about connectivity between ecosystems, especially between the inland and coastal ecosystems along the California coast! I'm currently studying the large terrestrial mammals which use our coasts to find the extent that marine resources end up in their diet.
+Hi! I am passionate about communicating data clearly and effectively for a variety of audiences. 
 
-I learned almost all my data science skills during my time completing the Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UCSB. 
-
-I'm now applying those skills to conservation science projects and research along our coastline!
+I hold a master's in Ecology, Evolution, and Ecology, where I researched the connectivity between inland and marine environments through the diets of large terrestrial animals, like coyotes. I also hold a master's in Environmental Data Science where I learned how to process, manage, and visualize many kinds of data.
 
 - 📫 How to reach me: glewin@.ucsb.edu
 - 😄 Pronouns: she/her
