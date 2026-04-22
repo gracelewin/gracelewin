@@ -1,6 +1,6 @@
 Hi! I am passionate about using data to answer novel questions, and communicating data clearly and effectively for a variety of audiences. 
 
-I hold a master's in Ecology, Evolution, and Ecology, where I researched the connectivity between inland and marine environments through the diets of large terrestrial animals, like coyotes. I also hold a master's in Environmental Data Science where I learned how to process, manage, and visualize many kinds of data.
+I hold a Master's in Ecology, Evolution, and Ecology, where I researched the connectivity between inland and marine environments through the diets of large terrestrial animals, like coyotes. I also hold a Master's degree in Environmental Data Science where I learned how to process, manage, and visualize many kinds of data.
 
 - 📫 How to reach me: glewin@.ucsb.edu
 - 😄 Pronouns: she/her
